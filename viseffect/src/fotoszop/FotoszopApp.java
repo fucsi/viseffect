@@ -4,6 +4,7 @@
 
 package fotoszop;
 
+//App
 import org.jdesktop.application.Application;
 import org.jdesktop.application.SingleFrameApplication;
 
